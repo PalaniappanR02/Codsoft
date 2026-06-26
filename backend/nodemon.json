@@ -1,0 +1,12 @@
+{
+  "watch": ["server.js", "routes"],
+  "ignore": [
+    "frontend",
+    "frontend/dist",
+    "uploads",
+    "node_modules",
+    "*.log"
+  ],
+  "ext": "js json",
+  "delay": "500"
+}
